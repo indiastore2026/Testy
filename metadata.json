@@ -1,0 +1,6 @@
+{
+  "name": "Website Application",
+  "description": "Modern website application connected to GitHub repository rajatrathaur2000-oss/Test",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
